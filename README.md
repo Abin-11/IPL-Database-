@@ -6,6 +6,7 @@ This project is an in-depth analysis of the Indian Premier League (IPL) cricket 
 - **Data Collection:** The project compiles comprehensive IPL data, including player performances, match results, and team standings.
 - **Data Analysis:** Using Python's powerful data manipulation libraries, the project processes and analyzes the data to uncover trends and patterns.
 - **Visualizations:** Matplotlib is used to create various visual representations, such as bar charts, pie charts, and line graphs, to make the data more accessible and easier to understand.
+- **Run Rate Calculator:** A run rate calculator is included to allow users to compute and analyze the run rates of teams or players across matches, providing an additional layer of statistical insight.
 - **Insights:** The project highlights key insights, such as top-performing players, winning teams, and historical performance trends, helping users make data-driven conclusions.
 
 ## Technologies Used
